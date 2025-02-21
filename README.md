@@ -1,3 +1,2 @@
 # pythonclock
-my first code!
 
